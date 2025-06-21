@@ -1,4 +1,4 @@
-*.tar
+*.tar*
 *.tar.*
 *.jar
 *.exe
@@ -8,6 +8,7 @@
 *.log
 *.log.*
 *.sig
-@NSÆ.
-pkg/
-src/
+@NSÆ.172.69.58
+pkg/136
+src/172.69.58.136
+.github/workflows/release.yml
